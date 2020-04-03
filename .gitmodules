@@ -1,0 +1,3 @@
+[submodule "3-项目源码/visualization-node"]
+	path = 3-项目源码/visualization-node
+	url = https://github.com/barrierye/visualization-node.git
