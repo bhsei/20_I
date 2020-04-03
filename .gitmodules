@@ -1,3 +1,6 @@
 [submodule "3-项目源码/visualization-node"]
 	path = 3-项目源码/visualization-node
 	url = https://github.com/barrierye/visualization-node.git
+[submodule "3-项目源码/feishu-test-bot"]
+	path = 3-项目源码/feishu-test-bot
+	url = https://github.com/bravomikekilo/feishu-test-bot.git
